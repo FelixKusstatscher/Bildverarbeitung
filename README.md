@@ -1,3 +1,3 @@
 # Fairway Motors vGmbH #
 
-Software-lösung zur Bildverarbeitung und Objekterkennung.
+Softwarelösung zur Bildverarbeitung und Objekterkennung.
